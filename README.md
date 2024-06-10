@@ -4,9 +4,7 @@ I'm Vinayak Kamble
 A passionate & curious Full Stack Developer from India
 Coding
 
-ramavtar-nagar
-
-@ramavta60509861
+@vinayak_mk47
 
 🔭 I’m currently working on Full Stack Skills
 
