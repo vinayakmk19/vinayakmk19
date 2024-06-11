@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakmk19r&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-kamble" /> </p>
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/vinayak-kamble-8a04b01b6/" target="blank"><img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn alt="@vinayak-kamble-8a04b01b6" /></a> </p>
-
 - 🔭 I’m currently working on **Full Stack Skills**
 
 - 🌱 I’m currently learning **Data Structures, React.js, Node.js, MongoDB**
