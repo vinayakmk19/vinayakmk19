@@ -3,10 +3,10 @@
 <h3 align="center">A passionate & curious Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramavtar-nagar&label=Profile%20views&color=0e75b6&style=flat" alt="ramavtar-nagar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakmk19r&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-kamble" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/@ramavta60509861" target="blank"><img src="https://img.shields.io/twitter/follow/@ramavta60509861?logo=twitter&style=for-the-badge" alt="@ramavta60509861" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/vinayak-kamble-8a04b01b6/" target="blank"><img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn alt="@vinayak-kamble-8a04b01b6" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack Skills**
 
