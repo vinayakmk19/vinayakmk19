@@ -28,7 +28,7 @@
   <a href="https://stackoverflow.com/users/ramavtar nagar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ramavtar nagar" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/ramavtar__nagar_" target="blank">
+  <a href="https://instagram.com/vinayak_mk47" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinayak-kamble" height="30" width="40" />
   </a>
 </p>
@@ -82,7 +82,7 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramavtar-nagar&show_icons=true&locale=en&layout=compact" alt="ramavtar-nagar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayakmk19&show_icons=true&locale=en&layout=compact" alt="vinayak-kamble" /></p>
 <br>
 <br>
 <br>
@@ -92,6 +92,6 @@
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramavtar-nagar&" alt="ramavtar-nagar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakmk19&" alt="vinayak-kamble" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramavtar-nagar&show_icons=true&locale=en" alt="ramavtar-nagar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayakmk19&show_icons=true&locale=en" alt="vinayak-kamble" /></p>
