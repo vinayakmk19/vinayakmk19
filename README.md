@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)
+![MasterHead](https://live.staticflickr.com/65535/51350239267_93b73e631f_h.jpg)
 <h1 align="center">Hi 👋, I'm Vinayak Kamble</h1>
 <h3 align="center">A passionate & curious Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
