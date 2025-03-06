@@ -6,15 +6,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakmk19&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-kamble" /> </p>
 
 
-- 🔭 I’m currently working on **Full Stack Skills**
+- 🔭 I’m currently working on **Full Stack Skills Drupal-CMS, MERN**
 
 - 🌱 I’m currently learning **Data Structures, React.js, Node.js, MongoDB**
 
 - 👯 I’m looking to collaborate on **Full-Stack-Development**
 
-- 🤝 I’m looking for help with **Fullkstack projects**
+- 🤝 I’m looking for help with **Fullstack projects, Drupal Fullstack Projects**
 
-- 💬 Ask me about **React, Node, Data Structures, Express, MongoDB, Html, Css, Javascript, Npm, Git, GitHUB**
+- 💬 Ask me about **Drupal, Drupal9,10, jQuery, MySQL, Headless Drupal, React, Node, Data Structures, Express, MongoDB, Html, Css, Javascript, Npm, Git, GitHUB**
 
 - 📫 How to reach me **vinayakkamble963@gmail.com**
 
